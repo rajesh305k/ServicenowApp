@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>477e03320b30220097432da0d5673a83</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sn_hr_core_case_total_rewards"&gt;
+    &lt;sn_hr_core_case_total_rewards action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;activity_due/&gt;
+        &lt;actual_resolution_time/&gt;
+        &lt;additional_assignee_list/&gt;
+        &lt;approval&gt;not requested&lt;/approval&gt;
+        &lt;approval_history/&gt;
+        &lt;approval_set/&gt;
+        &lt;assigned_to display_value="Stephen Seiters"&gt;1a826bf03710200044e0bfc8bcbe5da3&lt;/assigned_to&gt;
+        &lt;assignment_group display_value="HR Tier 1" name="HR Tier 1"&gt;22d52c269f221200d9011977677fcf97&lt;/assignment_group&gt;
+        &lt;auto_create_draft_document&gt;false&lt;/auto_create_draft_document&gt;
+        &lt;benefit_provider/&gt;
+        &lt;bulk_case_request/&gt;
+        &lt;business_duration/&gt;
+        &lt;business_service/&gt;
+        &lt;calendar_duration/&gt;
+        &lt;case_reassignment_count&gt;0&lt;/case_reassignment_count&gt;
+        &lt;case_support_team/&gt;
+        &lt;close_notes/&gt;
+        &lt;closed_at/&gt;
+        &lt;closed_by/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;collaborators/&gt;
+        &lt;comments/&gt;
+        &lt;comments_and_work_notes/&gt;
+        &lt;company display_value="ACME North America"&gt;31bea3d53790200044e0bfc8bcbe5dec&lt;/company&gt;
+        &lt;contact_type/&gt;
+        &lt;contract/&gt;
+        &lt;correlation_display/&gt;
+        &lt;correlation_id/&gt;
+        &lt;course_cost&gt;0&lt;/course_cost&gt;
+        &lt;course_end_date/&gt;
+        &lt;course_justification/&gt;
+        &lt;course_start_date/&gt;
+        &lt;course_title/&gt;
+        &lt;delivery_plan/&gt;
+        &lt;delivery_task/&gt;
+        &lt;department display_value="0054"&gt;221db0edc611228401760aec06c9d929&lt;/department&gt;
+        &lt;description&gt;This is a generated demo data case for reporting demo
+			data&lt;/description&gt;
+        &lt;details/&gt;
+        &lt;document_type/&gt;
+        &lt;draft_document/&gt;
+        &lt;due_date/&gt;
+        &lt;employee_percent_complete&gt;0&lt;/employee_percent_complete&gt;
+        &lt;escalation&gt;0&lt;/escalation&gt;
+        &lt;estimated_last_day_of_leave/&gt;
+        &lt;ettr/&gt;
+        &lt;expected_start/&gt;
+        &lt;first_day_of_leave/&gt;
+        &lt;follow_up/&gt;
+        &lt;fulfillment_instructions&gt;&lt;![CDATA[&lt;p&gt;Please read these instructions and follow the checklist below to check, validate, and process a new employee&amp;#39;s 401k enrollment or changes to their enrollment or withholding. If any of the steps in the checklist do not pass, contact the employee via connect and have them update the application form.&lt;/p&gt;&lt;div&gt;&lt;div&gt;See attached knowledge documents for reference.&lt;/div&gt;&lt;/div&gt;&lt;a id="sn_hr_fi_kbs_KB0000117" target="_blank" href="kb_view.do?sysparm_article&amp;#61;KB0000117" rel="noopener noreferrer nofollow"&gt;KB0000117 - 401K Contributions/Program&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;]]&gt;&lt;/fulfillment_instructions&gt;
+        &lt;group_list/&gt;
+        &lt;hr_profile display_value="Luke Wilson"&gt;ff0370019f22120047a2d126c42e7007&lt;/hr_profile&gt;
+        &lt;hr_service display_value="401(k) Retirement Plan Enrollment/Modification"&gt;841db1099f231200d9011977677fcf40&lt;/hr_service&gt;
+        &lt;impact&gt;3&lt;/impact&gt;
+        &lt;initiated_from/&gt;
+        &lt;knowledge&gt;false&lt;/knowledge&gt;
+        &lt;leave_of_absence/&gt;
+        &lt;leave_type/&gt;
+        &lt;location display_value="322 West 52nd Street, New York,NY"&gt;25ab9f690a0a0bb3001c5fec1d0d7bcb&lt;/location&gt;
+        &lt;made_sla&gt;true&lt;/made_sla&gt;
+        &lt;max_ettr/&gt;
+        &lt;min_ettr/&gt;
+        &lt;number&gt;HRC0000126&lt;/number&gt;
+        &lt;opened_at&gt;2022-08-28 00:00:00&lt;/opened_at&gt;
+        &lt;opened_by display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/opened_by&gt;
+        &lt;opened_for display_value="Luke Wilson"&gt;46d96f57a9fe198101947a9620895886&lt;/opened_for&gt;
+        &lt;order/&gt;
+        &lt;parent/&gt;
+        &lt;payload/&gt;
+        &lt;pdf_template/&gt;
+        &lt;pending_approval_action/&gt;
+        &lt;predicted_hr_service/&gt;
+        &lt;priority&gt;2&lt;/priority&gt;
+        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;refund_amount&gt;0&lt;/refund_amount&gt;
+        &lt;reimbursement_status&gt;1&lt;/reimbursement_status&gt;
+        &lt;rejection_goto/&gt;
+        &lt;rich_description/&gt;
+        &lt;route_reason/&gt;
+        &lt;school_program_name/&gt;
+        &lt;service_offering/&gt;
+        &lt;short_description&gt;401(k) Retirement Plan Enrollment/Modification for
+			Luke Wilson&lt;/short_description&gt;
+        &lt;skills&gt;b30370019f22120047a2d126c42e706f&lt;/skills&gt;
+        &lt;skip_auto_assign&gt;false&lt;/skip_auto_assign&gt;
+        &lt;skip_automatic_user_acceptance_state&gt;false&lt;/skip_automatic_user_acceptance_state&gt;
+        &lt;sla&gt;1800&lt;/sla&gt;
+        &lt;sla_breached&gt;true&lt;/sla_breached&gt;
+        &lt;sla_due/&gt;
+        &lt;sla_suspended&gt;false&lt;/sla_suspended&gt;
+        &lt;sla_suspended_for/&gt;
+        &lt;sla_suspended_on/&gt;
+        &lt;sla_suspended_reason/&gt;
+        &lt;sn_esign_document/&gt;
+        &lt;sn_esign_esignature_configuration/&gt;
+        &lt;source display_value=""&gt;self_service&lt;/source&gt;
+        &lt;state&gt;18&lt;/state&gt;
+        &lt;subject_person display_value="Luke Wilson"&gt;46d96f57a9fe198101947a9620895886&lt;/subject_person&gt;
+        &lt;subject_person_hr_profile/&gt;
+        &lt;subject_person_job/&gt;
+        &lt;submitter_can_cancel&gt;true&lt;/submitter_can_cancel&gt;
+        &lt;sys_class_name&gt;sn_hr_core_case_total_rewards&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-08-28 00:00:00&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;477e03320b30220097432da0d5673a83&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-12-18 22:38:36&lt;/sys_updated_on&gt;
+        &lt;task_effective_number&gt;HRC0000126&lt;/task_effective_number&gt;
+        &lt;task_percent_complete&gt;0&lt;/task_percent_complete&gt;
+        &lt;template display_value="401(k) Retirement Plan Enrollment/Modification"&gt;401db1099f231200d9011977677fcf40&lt;/template&gt;
+        &lt;template_invoked&gt;true&lt;/template_invoked&gt;
+        &lt;time_worked/&gt;
+        &lt;topic_category display_value="Benefits"&gt;9fd9f60d9f321200d9011977677fcf55&lt;/topic_category&gt;
+        &lt;topic_detail display_value="Retirement"&gt;eea6c7cd9f321200d9011977677fcf41&lt;/topic_detail&gt;
+        &lt;transferred_from/&gt;
+        &lt;transferred_to/&gt;
+        &lt;u_anushafd/&gt;
+        &lt;universal_request/&gt;
+        &lt;upon_approval&gt;proceed&lt;/upon_approval&gt;
+        &lt;upon_reject&gt;cancel&lt;/upon_reject&gt;
+        &lt;urgency&gt;3&lt;/urgency&gt;
+        &lt;user_input/&gt;
+        &lt;variables/&gt;
+        &lt;watch_list/&gt;
+        &lt;wf_activity/&gt;
+        &lt;work_end/&gt;
+        &lt;work_notes/&gt;
+        &lt;work_notes_list/&gt;
+        &lt;work_start/&gt;
+        &lt;workflow/&gt;
+        &lt;workflow_invoked&gt;false&lt;/workflow_invoked&gt;
+    &lt;/sn_hr_core_case_total_rewards&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=477e03320b30220097432da0d5673a83"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-05 09:10:40</sys_created_on>
+        <sys_id>fdfd7502dbfc251097e8c58605961915</sys_id>
+        <sys_name>HRC0000126</sys_name>
+        <sys_package display_value="Store Merchandising" source="x_lompi_store_mer">094d1e2c1b6fddd47b0a99f2b24bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Store Merchandising">094d1e2c1b6fddd47b0a99f2b24bcbde</sys_scope>
+        <sys_update_name>sys_metadata_link_fdfd7502dbfc251097e8c58605961915</sys_update_name>
+        <tablename>sn_hr_core_case</tablename>
+    </sys_metadata_link>
+</record_update>

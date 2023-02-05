@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>457606f7fb1310101d696a7521706904</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_er_case">
+    <sn_hr_er_case action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <actual_resolution_time/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group display_value="Employee Relations" name="Employee Relations">5113e47e3b120010d901655593efc4d0</assignment_group>
+        <auto_create_draft_document>false</auto_create_draft_document>
+        <bulk_case_request/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <case_reassignment_count>0</case_reassignment_count>
+        <case_support_team/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <collaborators/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company display_value="ACME South America">227cdfb03710200044e0bfc8bcbe5d6b</company>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <department display_value="0023">5d7f17f03710200044e0bfc8bcbe5d43</department>
+        <description/>
+        <details/>
+        <document_type/>
+        <draft_document/>
+        <due_date/>
+        <employee_percent_complete>0</employee_percent_complete>
+        <escalation>0</escalation>
+        <ettr/>
+        <expected_start/>
+        <external_opened_for>false</external_opened_for>
+        <follow_up/>
+        <fulfillment_instructions/>
+        <group_list/>
+        <hr_profile display_value="Clarice Knower">b30370019f22120047a2d126c42e700c</hr_profile>
+        <hr_service display_value="Report Misconduct">51c088553ba10010d901655593efc4b6</hr_service>
+        <impact>3</impact>
+        <incident_date/>
+        <initiated_from/>
+        <knowledge>false</knowledge>
+        <location display_value="Carrera 54 No. 49 - 31, Medellin">25b672780a0a0bb30090fae60e51bd31</location>
+        <locked>false</locked>
+        <made_sla>true</made_sla>
+        <max_ettr/>
+        <min_ettr/>
+        <number>HRC0000197</number>
+        <opened_at>2023-01-21 00:00:00</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <opened_for display_value="Clarice Knower">ca826bf03710200044e0bfc8bcbe5d56</opened_for>
+        <order/>
+        <parent/>
+        <payload/>
+        <pdf_template/>
+        <pending_approval_action/>
+        <pip_end_date/>
+        <pip_extended/>
+        <pip_extension_date/>
+        <pip_improvement_areas/>
+        <pip_rationale/>
+        <pip_start_date/>
+        <pip_successful/>
+        <predicted_hr_service/>
+        <preferred_contact_method>not_specified</preferred_contact_method>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <reported_date/>
+        <rich_description/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Report Interpersonal Conflict</short_description>
+        <skills>f70370019f22120047a2d126c42e706f</skills>
+        <skip_auto_assign>false</skip_auto_assign>
+        <skip_automatic_user_acceptance_state>false</skip_automatic_user_acceptance_state>
+        <sla>0</sla>
+        <sla_breached>false</sla_breached>
+        <sla_due/>
+        <sla_suspended>false</sla_suspended>
+        <sla_suspended_for/>
+        <sla_suspended_on/>
+        <sla_suspended_reason/>
+        <sn_esign_document/>
+        <sn_esign_esignature_configuration/>
+        <source/>
+        <state>10</state>
+        <subject_person/>
+        <subject_person_hr_profile/>
+        <subject_person_job/>
+        <submitter_can_cancel>true</submitter_can_cancel>
+        <sys_class_name>sn_hr_er_case</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-21 00:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>457606f7fb1310101d696a7521706904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-21 00:00:00</sys_updated_on>
+        <task_effective_number>HRC0000197</task_effective_number>
+        <task_percent_complete>0</task_percent_complete>
+        <template display_value="Report Misconduct">cead2db53ba10010d901655593efc4ec</template>
+        <template_invoked>true</template_invoked>
+        <time_worked/>
+        <topic_category display_value="Complaint Investigations">21b0b37a3b510010d901655593efc4cf</topic_category>
+        <topic_detail display_value="Investigations">d2399d7a3ba10010d901655593efc4ac</topic_detail>
+        <transferred_from/>
+        <transferred_to/>
+        <u_anushafd/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+        <workflow/>
+        <workflow_invoked>false</workflow_invoked>
+    </sn_hr_er_case>
+    <sys_translated_text action="delete_multiple" query="documentkey=457606f7fb1310101d696a7521706904"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-05 09:10:42</sys_created_on>
+        <sys_id>defd7502dbfc251097e8c586059619e2</sys_id>
+        <sys_name>HRC0000197</sys_name>
+        <sys_package display_value="Store Merchandising" source="x_lompi_store_mer">094d1e2c1b6fddd47b0a99f2b24bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Store Merchandising">094d1e2c1b6fddd47b0a99f2b24bcbde</sys_scope>
+        <sys_update_name>sys_metadata_link_defd7502dbfc251097e8c586059619e2</sys_update_name>
+        <tablename>sn_hr_core_case</tablename>
+    </sys_metadata_link>
+</record_update>
